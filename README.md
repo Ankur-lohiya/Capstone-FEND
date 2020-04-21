@@ -7,7 +7,7 @@
 #### Pixabay-For Images
 #### Geonames-For Location
 
-#### Fill the .env file with API keys:
+### Fill the .env file with API keys:
 
 #### Key of DarkSky Weather API
 DS_KEY=*****************
